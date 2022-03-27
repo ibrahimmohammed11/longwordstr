@@ -1,0 +1,25 @@
+{
+  "name": "longwordstr",
+  "version": "1.0.0",
+  "description": "find longest word in string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimmohammed11/longwordstr.git"
+  },
+  "keywords": [
+    "longest",
+    "word",
+    "in",
+    "string"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimmohammed11/longwordstr/issues"
+  },
+  "homepage": "https://github.com/ibrahimmohammed11/longwordstr#readme"
+}
